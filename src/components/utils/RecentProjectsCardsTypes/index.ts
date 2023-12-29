@@ -62,15 +62,6 @@ export const RecentProjectsCards: Array<RecentProjectsCardsType> = [
         content:"Dark Mode Toggler local app which allow user to toggle between dark and light mode.",
         github:"",
     },
-    {
-        images: Testimonial,
-        alt:"testimonials",
-        subHeading: "Website",
-        heading: "Testimonials",
-        btn: "Preview",
-        link:"https://8testimonials.vercel.app/",
-        content:"This is Testimonials local Design textimonial are essential part of website to get user focus and i made as assignment for my Piaic projects and this is my work.",
-        github:"",
-    },
+   
 ]
 
