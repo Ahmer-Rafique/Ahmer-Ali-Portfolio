@@ -21,7 +21,7 @@ export default function TopNavbar() {
                 <div className="flex justify-between items-center py-2">
                     <div className="flex items-center space-x-1">
                         <Image className="hidden sm:block" width={45} src={Logo} alt="Abdul-Basit Logo" />
-                        <h2 className="text-heading font-bold text-xl dark:text-[#aab5c5]">Abdul <span className="font-semibold">Basit</span></h2>
+                        <h2 className="text-heading font-bold text-xl dark:text-[#aab5c5]">Ahmer <span className="font-semibold">Ali</span></h2>
                     </div>
                     <div className="flex items-center space-x-4">
                         <div className="hidden sm:flex">

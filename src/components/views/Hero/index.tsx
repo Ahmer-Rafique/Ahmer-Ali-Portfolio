@@ -1,5 +1,5 @@
 "use client"
-import { AbdulBasit, Rectangles } from "@/components/assets/Images";
+import { AhmerAli, Rectangles } from "@/components/assets/Images";
 import ArrowBounc from "@/components/shared/ArrowBounc";
 import Wrapper from "@/components/shared/Wrapper";
 import Image from "next/image";
@@ -35,7 +35,7 @@ export default function Hero() {
                 <div className="z-20 ">
                     <div className="relative">
                         <div className="bg-gray-100 dark:bg-darkBackgroundTop mb-1 flex justify-center items-center w-52 h-52 sm:w-72 sm:h-72 rounded-full shadow-xl dark:shadow-gray-800 border-2 dark:border-0 z-30">
-                            <Image className="z-30 rounded-full object-cover object-top; " width={400} height={400} src={AbdulBasit} alt="Abdul-Basit" />
+                            <Image className="z-30 rounded-full object-cover object-top; " width={400} height={400} src={AhmerAli} alt="Ahmer Ali" />
                         </div>
                         <div className="hidden sm:block -z-10 absolute -bottom-4 -right-4 sm:right-0 dark:opacity-40">
                             <Image src={Rectangles} alt="reactangle" />
