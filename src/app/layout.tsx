@@ -5,8 +5,8 @@ import SideNavbar from '@/components/views/SideNavbar'
 import './globals.css'
 
 export const metadata = {
-  title: 'Abdul-Basit',
-  description: 'Hi, I am Abdul Basit (basitgggg) Here you will find a collection of high-quality software solutions to make your life easier and more productive.',
+  title: 'Ahmer-Ali',
+  description: 'Hi, I am Ahmer Ali. Here you will find a collection of high-quality software solutions to make your life easier and more productive.',
 }
 
 export default function RootLayout({
@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
-        <Seo canonical={"https://abdulbasit-self.vercel.app/"} />
+        <Seo canonical={"https://ahmer-ali-portfolio.vercel.app/"} />
       </head>
       <body className='scrollbar-thin scrollbar-thumb-purple-600 dark:scrollbar-thumb-darkBackgroundTop scrollbar-track-purple-400 dark:scrollbar-track-purple-400'>
         <Wrapper>
