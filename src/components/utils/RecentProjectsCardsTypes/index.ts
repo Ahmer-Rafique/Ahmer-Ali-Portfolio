@@ -20,7 +20,7 @@ export const RecentProjectsCards: Array<RecentProjectsCardsType> = [
         btn: "Preview",
         link:"https://panaverse-dao-nine.vercel.app/",
         content:"This is Panaverse Dao (Decentralize AutoNumas Organizaioin) local website that i made as assignment and this is my work.",
-        github:"https://github.com/basitgggg/Panaverse-dao",
+        github:"",
     },
     {
         images: Todo,
@@ -30,7 +30,7 @@ export const RecentProjectsCards: Array<RecentProjectsCardsType> = [
         btn: "Preview",
         link:"https://todo-one-ochre.vercel.app/",
         content:"This is Todo local app that i made as assignment for PIAIC projects and this is my work and experience in front of you.",
-        github:"https://github.com/basitgggg/Next.js_styling_projects/tree/main/2Todo%20app",
+        github:"",
     },
     {
         images: Steps,
@@ -40,7 +40,7 @@ export const RecentProjectsCards: Array<RecentProjectsCardsType> = [
         btn: "Preview",
         link:"https://7steps.vercel.app/",
         content:"Steps component like Youtube and Faceboog local app can be assigned many step whatever you want that i made as assignment and this is my work.",
-        github:"https://github.com/basitgggg/Next.js_styling_projects/tree/main/7steps",
+        github:"",
     },
     {
         images: LandingPage,
@@ -50,7 +50,7 @@ export const RecentProjectsCards: Array<RecentProjectsCardsType> = [
         btn: "Preview",
         link:"https://5landin-page.vercel.app/",
         content:"Landing Page local Design or Templete that i made as assignment on Css which is Chakra UI and this is my work.",
-        github:"https://github.com/basitgggg/Next.js_styling_projects/tree/main/5landin-page",
+        github:"",
     },
     {
         images: DarkMode,
@@ -60,7 +60,7 @@ export const RecentProjectsCards: Array<RecentProjectsCardsType> = [
         btn: "Preview",
         link:"https://switcher-sand.vercel.app/",
         content:"Dark Mode Toggler local app which allow user to toggle between dark and light mode.",
-        github:"https://github.com/basitgggg/Dark-mode-Switcher",
+        github:"",
     },
     {
         images: Testimonial,
@@ -70,7 +70,7 @@ export const RecentProjectsCards: Array<RecentProjectsCardsType> = [
         btn: "Preview",
         link:"https://8testimonials.vercel.app/",
         content:"This is Testimonials local Design textimonial are essential part of website to get user focus and i made as assignment for my Piaic projects and this is my work.",
-        github:"https://github.com/basitgggg/Next.js_styling_projects/tree/main/8testimonials",
+        github:"",
     },
 ]
 
