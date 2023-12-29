@@ -9,7 +9,6 @@ import RecentProjects from '@/components/views/RecentProjects'
 import About from '@/components/views/About'
 import Contact from '@/components/views/Contact'
 import Footer from '@/components/views/Footer/indes'
-import Testimonials from '@/components/views/Testimonials'
 import ProjectCarousel from '@/components/views/ProjectCarousel'
 import MyServices from '@/components/views/MyServices'
 import { useEffect } from "react"
@@ -28,7 +27,6 @@ export default function Home() {
         <Skills />
         <RecentProjects />
         <WorkingDays />
-        <Testimonials />
         <ProjectCarousel />
         <About />
         <Contact />

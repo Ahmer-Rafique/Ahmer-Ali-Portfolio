@@ -32,7 +32,7 @@ interface Types {
 let Data: Array<Types> = [
     {
         heading: "About Me",
-        content: "My Name is Abdul-Basit.I Live in Bahawalpur, Punjab, Pakistan. My Age is 18 Year's. I am student of PIAIC(President Initiative and Artificial Intelligence).I am enrolled in Web 3.0 and Metaverse Developer(Blockchain)(WMD). ",
+        content: "My Name is Ahmer Ali.I Live in Bahawalpur, Punjab, Pakistan. My Age is 18 Year's. I am student of PIAIC(President Initiative and Artificial Intelligence).I am enrolled in Web 3.0 and Metaverse Developer(Blockchain)(WMD). ",
     },
     {
         heading: "Education",
