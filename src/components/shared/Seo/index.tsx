@@ -1,13 +1,13 @@
 import Head from "next/head";
 
-const DOMAIN = "https://abdulbasit-self.vercel.app";
+const DOMAIN = "https://ahmer-ali-portfolio.vercel.app/";
 const DEFAULT_OG_IMAGE =
-  "https://abdulbasit-self.vercel.app/basit.jpg";
+  "https://abdulbasit-self.vercel.app/ahmer.jpg";
 
 export default function Seo({
-  title = "AbdulBasit",
-  description = "AbdulBasit job is to develope Full stack applications and Designing the application. He's very good in designing, coding.",
-  siteName = "abdulbasit",
+  title = "AhmerAli",
+  description = "AhmerAli job is to develope Full stack applications and Designing the application. He's very good in designing, coding.",
+  siteName = "ahmerali",
   canonical = DOMAIN,
   ogImage = DEFAULT_OG_IMAGE,
   ogType = "website",
