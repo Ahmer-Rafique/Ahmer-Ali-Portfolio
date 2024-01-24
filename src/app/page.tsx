@@ -27,7 +27,7 @@ export default function Home() {
         <Skills />
         <RecentProjects />
         <WorkingDays />
-        <ProjectCarousel />
+        {/* <ProjectCarousel /> */}
         <About />
         <Contact />
         <Footer />
