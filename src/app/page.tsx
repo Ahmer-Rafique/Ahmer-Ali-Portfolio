@@ -23,7 +23,7 @@ export default function Home() {
       <main className='px-0 sm:px-10 2xl:px-6 pt-8 h-screen'>
         <GoToTop heightOfPage={10} />
         <Hero />
-        {/* <MyServices /> */}
+         <MyServices /> 
         <Skills />
         <RecentProjects />
         <WorkingDays />
